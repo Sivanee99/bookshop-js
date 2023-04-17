@@ -17,7 +17,7 @@ export const validate_shipOrder = [
 
 export const validate_getOrderStatus = [
     ...validate_id("cid"),
-    ...validate_id("pid")
+    ...validate_id("bid")
 ]
 
 export const createOrder = async (req: Request, res: Response) => {
