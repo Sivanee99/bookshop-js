@@ -1,0 +1,3 @@
+[2023-05-11T20:31:36.097] [INFO] application - Book Created 
+[2023-05-11T20:33:49.638] [ERROR] application - Book: Balance not enough
+[2023-05-11T20:34:16.992] [INFO] application - Book purchase successful 
